@@ -1,5 +1,5 @@
-# Mirage
-Mirage is a desktop environment for [Cosmos](https://github.com/CosmosOS/Cosmos).
+# Nuke
+Nuke is a fork of Mirage OS, its a desktop environment for [Cosmos](https://github.com/CosmosOS/Cosmos).
 
 ## System Requirements
 * BIOS
